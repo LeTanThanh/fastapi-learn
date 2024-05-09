@@ -21,7 +21,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Declare Request Example Data](https://github.com/LeTanThanh/fastapi-schema-extra-example)
   * [Extra Data Types](https://github.com/LeTanThanh/fastapi-extra-data-types)
   * [Cookie Parameters](https://github.com/LeTanThanh/fastapi-cookie-params)
-  * Header Parameters
+  * [Header Parameters](https://github.com/LeTanThanh/fastapi-header-params)
   * Response Model - Return Type
   * Extra Models
   * Response Status Code
