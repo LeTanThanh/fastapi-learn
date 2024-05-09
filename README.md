@@ -18,7 +18,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Body - Multiple Parameters](https://github.com/LeTanThanh/fastapi-body-multiple-params)
   * [Body - Fields](https://github.com/LeTanThanh/fastapi-body-fields)
   * [Body - Nested Models](https://github.com/LeTanThanh/fastapi-body-nested-models)
-  * Declare Request Example Data
+  * [Declare Request Example Data](https://github.com/LeTanThanh/fastapi-schema-extra-example)
   * Extra Data Types
   * Cookie Parameters
   * Header Parameters
