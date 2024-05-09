@@ -12,7 +12,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [First Steps](https://github.com/LeTanThanh/fastapi-first-steps)
   * [Path Parameters](https://github.com/LeTanThanh/fastapi-path-params)
   * [Query Parameters](https://github.com/LeTanThanh/fastapi-query-params)
-  * Request Body
+  * [Request Body](https://github.com/LeTanThanh/fastapi-body)
   * Query Parameters and String Validations
   * Path Parameters and Numeric Validations
   * Body - Multiple Parameters
