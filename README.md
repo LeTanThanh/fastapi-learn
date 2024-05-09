@@ -20,7 +20,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Body - Nested Models](https://github.com/LeTanThanh/fastapi-body-nested-models)
   * [Declare Request Example Data](https://github.com/LeTanThanh/fastapi-schema-extra-example)
   * [Extra Data Types](https://github.com/LeTanThanh/fastapi-extra-data-types)
-  * Cookie Parameters
+  * [Cookie Parameters](https://github.com/LeTanThanh/fastapi-cookie-params)
   * Header Parameters
   * Response Model - Return Type
   * Extra Models
