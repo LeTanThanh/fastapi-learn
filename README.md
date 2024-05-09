@@ -17,7 +17,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Path Parameters and Numeric Validations](https://github.com/LeTanThanh/fastapi-path-params-numeric-validations)
   * [Body - Multiple Parameters](https://github.com/LeTanThanh/fastapi-body-multiple-params)
   * [Body - Fields](https://github.com/LeTanThanh/fastapi-body-fields)
-  * Body - Nested Models
+  * [Body - Nested Models](https://github.com/LeTanThanh/fastapi-body-nested-models)
   * Declare Request Example Data
   * Extra Data Types
   * Cookie Parameters
