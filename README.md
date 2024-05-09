@@ -16,7 +16,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Query Parameters and String Validations](https://github.com/LeTanThanh/fastapi-query-params-str-validations)
   * [Path Parameters and Numeric Validations](https://github.com/LeTanThanh/fastapi-path-params-numeric-validations)
   * [Body - Multiple Parameters](https://github.com/LeTanThanh/fastapi-body-multiple-params)
-  * Body - Fields
+  * [Body - Fields](https://github.com/LeTanThanh/fastapi-body-fields)
   * Body - Nested Models
   * Declare Request Example Data
   * Extra Data Types
