@@ -11,7 +11,7 @@ B. [Concurrency and async / await](https://fastapi.tiangolo.com/async)
 C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [First Steps](https://github.com/LeTanThanh/fastapi-first-steps)
   * [Path Parameters](https://github.com/LeTanThanh/fastapi-path-params)
-  * Query Parameters
+  * [Query Parameters](https://github.com/LeTanThanh/fastapi-query-params)
   * Request Body
   * Query Parameters and String Validations
   * Path Parameters and Numeric Validations
