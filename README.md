@@ -9,7 +9,7 @@ A. [Python Types Intro](https://fastapi.tiangolo.com/python-types)
 B. [Concurrency and async / await](https://fastapi.tiangolo.com/async)
 
 C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
-  * First Steps
+  * [First Steps](https://github.com/LeTanThanh/fastapi-first-steps)
   * Path Parameters
   * Query Parameters
   * Request Body
