@@ -24,7 +24,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Header Parameters](https://github.com/LeTanThanh/fastapi-header-params)
   * [Response Model - Return Type](https://github.com/LeTanThanh/fastapi-response-model)
   * [Extra Models](https://github.com/LeTanThanh/fastapi-response-model)
-  * Response Status Code
+  * [Response Status Code](https://github.com/LeTanThanh/fastapi-response-status-code)
   * Form Data
   * Request Files
   * Request Forms and Files
