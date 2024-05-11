@@ -22,7 +22,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Extra Data Types](https://github.com/LeTanThanh/fastapi-extra-data-types)
   * [Cookie Parameters](https://github.com/LeTanThanh/fastapi-cookie-params)
   * [Header Parameters](https://github.com/LeTanThanh/fastapi-header-params)
-  * Response Model - Return Type
+  * [Response Model - Return Type](https://github.com/LeTanThanh/fastapi-response-model)
   * Extra Models
   * Response Status Code
   * Form Data
