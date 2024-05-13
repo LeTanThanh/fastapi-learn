@@ -29,7 +29,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Request Files](https://fastapi.tiangolo.com/tutorial/request-files/)
   * [Request Forms and Files](https://github.com/LeTanThanh/fastapi-request-forms-and-files)
   * [Handling Errors](https://github.com/LeTanThanh/fastapi-handling-errors)
-  * Path Operation Configuration
+  * [Path Operation Configuration](https://github.com/LeTanThanh/fastapi-path-operation-configuration)
   * JSON Compatible Encoder
   * Body - Updates
   * Dependencies
