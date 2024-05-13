@@ -26,7 +26,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Extra Models](https://github.com/LeTanThanh/fastapi-response-model)
   * [Response Status Code](https://github.com/LeTanThanh/fastapi-response-status-code)
   * [Form Data](https://github.com/LeTanThanh/fastapi-request-forms)
-  * Request Files
+  * [Request Files](https://fastapi.tiangolo.com/tutorial/request-files/)
   * Request Forms and Files
   * Handling Errors
   * Path Operation Configuration
