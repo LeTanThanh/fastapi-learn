@@ -30,7 +30,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Request Forms and Files](https://github.com/LeTanThanh/fastapi-request-forms-and-files)
   * [Handling Errors](https://github.com/LeTanThanh/fastapi-handling-errors)
   * [Path Operation Configuration](https://github.com/LeTanThanh/fastapi-path-operation-configuration)
-  * JSON Compatible Encoder
+  * [JSON Compatible Encoder](https://github.com/LeTanThanh/fastapi-encoder)
   * Body - Updates
   * Dependencies
     * Classes as Dependencies
