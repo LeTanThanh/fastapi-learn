@@ -34,7 +34,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [Body - Updates](https://github.com/LeTanThanh/fastapi-body-updates)
   * [Dependencies](https://github.com/LeTanThanh/fastapi-dependencies)
     * [Classes as Dependencies](https://github.com/LeTanThanh/fastapi-classes-as-dependencies)
-    * Sub-dependencies
+    * [Sub-dependencies](https://github.com/LeTanThanh/fastapi-sub-dependencies)
     * Dependencies in path operation decorators
     * Global Dependencies
     * Dependencies with yield
