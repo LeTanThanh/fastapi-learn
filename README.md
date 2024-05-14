@@ -40,7 +40,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
     * [Dependencies with yield](https://github.com/LeTanThanh/fastapi-dependencies-with-yield)
   * Security
     * [Security - First Steps](https://github.com/LeTanThanh/fastapi-security-first-steps)
-    * Get Current User
+    * [Get Current User](https://github.com/LeTanThanh/fastapi-get-current-user)
     * Simple OAuth2 with Password and Bearer
     * OAuth2 with Password (and hashing), Bearer with JWT tokens
   * Middleware
