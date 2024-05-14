@@ -33,7 +33,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [JSON Compatible Encoder](https://github.com/LeTanThanh/fastapi-encoder)
   * [Body - Updates](https://github.com/LeTanThanh/fastapi-body-updates)
   * [Dependencies](https://github.com/LeTanThanh/fastapi-dependencies)
-    * Classes as Dependencies
+    * [Classes as Dependencies](https://github.com/LeTanThanh/fastapi-classes-as-dependencies)
     * Sub-dependencies
     * Dependencies in path operation decorators
     * Global Dependencies
