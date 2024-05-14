@@ -36,7 +36,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
     * [Classes as Dependencies](https://github.com/LeTanThanh/fastapi-classes-as-dependencies)
     * [Sub-dependencies](https://github.com/LeTanThanh/fastapi-sub-dependencies)
     * [Dependencies in path operation decorators](https://github.com/LeTanThanh/fastapi-dependencies-in-path-operation-decorators)
-    * Global Dependencies
+    * [Global Dependencies](https://github.com/LeTanThanh?tab=repositories)
     * Dependencies with yield
   * Security
     * Security - First Steps
