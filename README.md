@@ -37,7 +37,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
     * [Sub-dependencies](https://github.com/LeTanThanh/fastapi-sub-dependencies)
     * [Dependencies in path operation decorators](https://github.com/LeTanThanh/fastapi-dependencies-in-path-operation-decorators)
     * [Global Dependencies](https://github.com/LeTanThanh?tab=repositories)
-    * Dependencies with yield
+    * [Dependencies with yield](https://github.com/LeTanThanh/fastapi-dependencies-with-yield)
   * Security
     * Security - First Steps
     * Get Current User
