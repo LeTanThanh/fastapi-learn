@@ -42,7 +42,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
     * [Security - First Steps](https://github.com/LeTanThanh/fastapi-security-first-steps)
     * [Get Current User](https://github.com/LeTanThanh/fastapi-get-current-user)
     * [Simple OAuth2 with Password and Bearer](https://github.com/LeTanThanh/fastapi-simple-oauth2)
-    * OAuth2 with Password (and hashing), Bearer with JWT tokens
+    * [OAuth2 with Password (and hashing), Bearer with JWT tokens](https://github.com/LeTanThanh/fastapi-oauth2-jwt)
   * Middleware
   * CORS (Cross-Origin Resource Sharing)
   * SQL (Relational) Databases
