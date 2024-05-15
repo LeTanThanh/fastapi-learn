@@ -44,7 +44,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
     * [Simple OAuth2 with Password and Bearer](https://github.com/LeTanThanh/fastapi-simple-oauth2)
     * [OAuth2 with Password (and hashing), Bearer with JWT tokens](https://github.com/LeTanThanh/fastapi-oauth2-jwt)
   * [Middleware](https://github.com/LeTanThanh/fastapi-middleware)
-  * CORS (Cross-Origin Resource Sharing)
+  * [CORS (Cross-Origin Resource Sharing)](https://github.com/LeTanThanh/fastapi-cors)
   * SQL (Relational) Databases
   * Bigger Applications - Multiple Files
   * Background Tasks
