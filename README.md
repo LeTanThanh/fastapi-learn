@@ -47,7 +47,7 @@ C. [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial)
   * [CORS (Cross-Origin Resource Sharing)](https://github.com/LeTanThanh/fastapi-cors)
   * [SQL (Relational) Databases](https://github.com/LeTanThanh/fastapi-sql-databases)
   * [Bigger Applications - Multiple Files](https://github.com/LeTanThanh/fastapi-bigger-applications)
-  * Background Tasks
+  * [Background Tasks](https://github.com/LeTanThanh/fastapi-background-tasks)
   * Metadata and Docs URLs
   * Static Files
   * Testing
